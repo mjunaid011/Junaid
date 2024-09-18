@@ -8,5 +8,9 @@ Answer: Data science is very useful for medical sciences where you can
 aggregate patient studies data and visualize it.
 
 Q3: What is the difference between merging and rebasing?
-While both serve a very similar purpose, merge retains commit history while
- rebase will rewrite the commit history 
+Answer: While both serve a very similar purpose, merge retains commit
+ history while  rebase will rewrite the commit history 
+
+Q4: What skills do you hope to improve in this class?
+Answer: I hope to learn how to process and visualize data in multiple ways
+that I can use depending on the need.
